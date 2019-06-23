@@ -1,0 +1,977 @@
+1561167313120	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.faylTVlKDdsm"
+1561167314069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561167314069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561167314070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561167316438	Marionette	INFO	Listening on port 51363
+1561167316454	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561167338632	Marionette	INFO	Stopped listening on port 51363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2556, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561167373715	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.0km6VQG687qY"
+1561167374521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561167374522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561167374522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561167376615	Marionette	INFO	Listening on port 51394
+1561167377051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 8280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10012, [Parent 8280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10540, Chrome_Chi1561167424322	Marionette	INFO	Stopped listening on port 51394
+[GPU 12008, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561167432427	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.sOH0WXG57gke"
+1561167433341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561167433341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561167433341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561167435290	Marionette	INFO	Listening on port 51537
+1561167435773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/plugins.js, line 124: TypeError: rules is undefined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 156: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6132, Chrome_Chil[Parent 8196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561168443326	Marionette	INFO	Stopped listening on port 51537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11496,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561168504235	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.7MNmSuVz2gR4"
+1561168505046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561168505046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561168505046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561168507029	Marionette	INFO	Listening on port 52062
+1561168507072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6066: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6066: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 5344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2940, Chrome_ChildT1561168924689	Marionette	INFO	Stopped listening on port 52062
+[GPU 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_1558035249/build/src/ipc/chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561168934745	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.S36FmLpINE5F"
+1561168935656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561168935656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561168935657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561168937979	Marionette	INFO	Listening on port 52545
+1561168938080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 10496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10496, Chrome_Child[Parent 4696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3872, Chrome_ChildThread] WARNING: pipe error: 109: file1561169616117	Marionette	INFO	Stopped listening on port 52545
+[GPU 3148, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561169634399	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.G0gFKf6NDTJ2"
+1561169635207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561169635207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561169635207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561169637171	Marionette	INFO	Listening on port 52829
+1561169637233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561169859551	Marionette	INFO	Stopped listening on port 52829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1216, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561169868632	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.cVR2pG9KItPP"
+1561169869433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561169869433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561169869433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561169871530	Marionette	INFO	Listening on port 52977
+1561169871968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/job/detail.htm?jobId=1210160, line 1993: TypeError: window._msa is undefined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/job/detail.htm?jobId=1215138, line 1989: TypeError: window._msa is undefined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/job/detail.htm?jobId=1210160, line 1993: TypeError: window._msa is undefined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6038: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/, line 6006: ReferenceError: init is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561171424774	Marionette	INFO	Stopped listening on port 52977
+[GPU 2556, Chrome_ChildT1561171430442	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.rGhKucIfkHNw"
+1561171431241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561171431241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561171431241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561171433121	Marionette	INFO	Listening on port 53512
+1561171433264	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 6468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561172854520	Marionette	INFO	Stopped listening on port 53512
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+GPU 2384, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+anges
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 976, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cc, line 341
+[Child 2152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/[Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1948, Chrome_[Parent 976, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561172853553	Marionette	INFO	Stopped listening on port 53548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 1: TypeError: e is null
+[Parent 11676, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 12488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249[Parent 11676, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 126921561171916664	Marionette	INFO	Stopped listening on port 53799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13196, Chrome1561171924143	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.GSmEodU4wtly"
+1561171924933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561171924933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561171924933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561171927003	Marionette	INFO	Listening on port 53967
+1561171927458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561172794433	Marionette	INFO	Stopped listening on port 53967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1561172799113	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.YOYIQcnEVHdl"
+1561172799931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561172799932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561172799932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561172802238	Marionette	INFO	Listening on port 54374
+1561172802423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1561172832210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 5676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12936, C1561172852033	Marionette	INFO	Stopped listening on port 54374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3480, Chrome_ChildThread] WARNJavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 400: Error: OS.File has been shut down. Rejecting post to stat
+1561172869386	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.wjKmiy6z71cQ"
+1561172870228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561172870228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561172870228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561172872341	Marionette	INFO	Listening on port 54547
+1561172872707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1768, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561173004787	Marionette	INFO	Stopped listening on port 54547
+[GPU 1300, Chrome_ChildThread] W
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r*
+1561173004825	Marionette	INFO	Listening on port 54728
+1561173005348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 2684, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2684, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530012,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2684, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/1561173054995	Marionette	INFO	Stopped listening on port 54728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14228, Chrome_1561173060333	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.pBJZ9vcAfXAD"
+1561173061191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561173061191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561173061191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561173063249	Marionette	INFO	Listening on port 54916
+1561173063680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 13756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+/chr
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+omium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 80: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F002B,name=PBrowser::Msg_EnableDisableCommands) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F002E,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F002E,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 80: NS_ERROR_UNEXPECTED: 
+[Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ip
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1561182337045	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.AYzEvqcei8EJ"
+1561182338578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561182338579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561182338579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561182340471	Marionette	INFO	Listening on port 51343
+1561182340981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 5756, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src[Parent 575/6, ipc/chromium/src/chrome/commonG/eckiop_IOThread] WARNING: pipe error: 109: cfi_le zch:/tannelask_wi_15n.c58035249/buic, line 34ld/sr1
+c/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.1561182375593	Marionette	INFO	Stopped listening on port 51343
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 220, Chrome_ChildThread] WARNINJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 4583: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1561182462394	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.V6XcNBFRTAPQ"
+1561182463231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561182463231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561182463232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561182465168	Marionette	INFO	Listening on port 51499
+1561182465200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 7348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561183049433	Marionette	INFO	Stopped listening on port 51499
+[GPU 4
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+056, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pt error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_channel_win.cc, line 341
+[Child 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/ch[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 536, C1561183048475	Marionette	INFO	Stopped listening on port 51702
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 6280, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ror: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8704, Chrome_Child1561182695613	Marionette	INFO	Stopped listening on port 51874
+[GPU 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+00, Chrome_ChildThread] WARNING:1561182701163	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.uHWlDo0kNf1S"
+1561182701918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561182701919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561182701919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561182703841	Marionette	INFO	Listening on port 52119
+1561182703946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12884,[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561183047799	Marionette	INFO	Stopped listening on port 52119
+[GPU 3744, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561184015273	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.057wuZnkRt4j"
+1561184016023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561184016024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561184016024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561184017972	Marionette	INFO	Listening on port 52999
+1561184018094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1561184034894	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 361561184060134	Marionette	INFO	Stopped listening on port 52999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9904, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561184098217	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.GwIpaMdgjt9w"
+1561184098950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561184098950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561184098950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561184100693	Marionette	INFO	Listening on port 53158
+1561184101020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561184171150	Marionette	INFO	Stopped listening on port 53158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12716, Chrome_ChildThread] WARNING1561184183587	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.fnfxrcgu0CZ3"
+1561184184327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561184184327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561184184327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561184186269	Marionette	INFO	Listening on port 53361
+1561184186409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 5144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[_C1hi5l58035249/build/src/ipc/chromium/src/chrome/cd 3600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_wommon/ipc_in.cc, line 341
+[Parent 10420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561186763717	Marionette	INFO	Stopped listening on port 53361
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 11632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[sCk_1558035249/build/src/ihpild 4992, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 4992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4992, Chrom1561185054944	Marionette	INFO	Stopped listening on port 53698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561185083868	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.RgfzyXddOIuR"
+1561185084618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561185084619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561185084619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561185086584	Marionette	INFO	Listening on port 53916
+1561185086692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12904, Chrome_ChildThread[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_155803524[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561186762750	Marionette	INFO	Stopped listening on port 53916
+[GPU 5388, Chrome_Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561186768988	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.VqNg63ViNeEP"
+1561186770455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561186770455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561186770455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561186772291	Marionette	INFO	Listening on port 54727
+1561186772319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1561188789139	Marionette	INFO	Stopped listening on port 54727
+[GPU 12344, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561186997327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561186999368	Marionette	INFO	Listening on port 54901
+1561186999884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 4856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561187633691	Marionette	INFO	Stopped listening on port 54901
+[GPU 12400, Chrome_ChildThread] 1561187639469	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.QEPvB39iJ5yU"
+1561187640695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561187640696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561187640696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561187642857	Marionette	INFO	Listening on port 55129
+1561187642893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 6480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6480[Child 8100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8101561187745797	Marionette	INFO	Stopped listening on port 55129
+[GPU 12664, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561187750811	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sunyuebo\\AppData\\Local\\Temp\\rust_mozprofile.pygRVk0xRwKq"
+1561187751569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561187751569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561187751569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561187753643	Marionette	INFO	Listening on port 55234
+1561187754111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 1204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4132, Chro[Child 1920, Chrome_ChildThread] WARNING: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pipe error: 109: file z:/task_
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1920, Chrome_ChildThread] WARNING: pipe error:[Parent 1204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9828,1561188788213	Marionette	INFO	Stopped listening on port 55234
+[GPU 12520, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12684, Chrome_ChildThread] WARNI[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+file z:/task_1558035249/build/src/ipc/chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+omium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4588, Chrome_C1561188787261	Marionette	INFO	Stopped listening on port 55429
+[GPU 4728, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ne 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 1796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 1796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4304, Chrome_ChildThr1561188786645	Marionette	INFO	Stopped listening on port 55619
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 13140, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+76, Chrome_ChildThread] WARNING: piprome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1348,[Parent 11600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561188785804	Marionette	INFO	Stopped listening on port 55844
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10320, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13820, [Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561188784865	Marionette	INFO	Stopped listening on port 55980
+[GPU 13580, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 14324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14920, Chrome_Child[Child 14660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561188784078	Marionette	INFO	Stopped listening on port 56121
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+14420, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 15196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558/03chromium/src/chrome/common/ipc_channel_win.cc, line 341
+5249/build[Child 14564, Chrome_ChildThread] WA/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1561188783455	Marionette	INFO	Stopped listening on port 56265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14308, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
